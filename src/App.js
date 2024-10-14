@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="header">
         <h1>Reese Guthier</h1>
-        <h3><a href="mailto:rkg460@gmail.com">rguthier25@gmail.com</a></h3>
+        <h3><a href="mailto:rguthier25@gmail.com">rguthier25@gmail.com</a></h3>
       </header>
       <div className="mainContent">
         <h2>About me</h2>
